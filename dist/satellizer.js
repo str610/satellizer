@@ -584,7 +584,7 @@
                     }
                     catch (error) {
                     }
-                }, 500);
+                }, 10);
             });
         };
         Popup.prototype.eventListener = function (redirectUri) {
